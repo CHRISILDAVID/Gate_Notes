@@ -168,3 +168,9 @@ $$\dim(\text{span}\{v_1, v_2, \ldots, v_n\}) = \text{rank}([v_1 \, v_2 \, \cdots
 - **Spanning Set**: A set whose span equals the entire vector space
 - **To check membership**: Solve a system of linear equations
 - **Geometric intuition**: Lines, planes, and hyperplanes through the origin
+
+---
+
+## References for me
+
+- https://youtu.be/tM4TDL9Hj8U
